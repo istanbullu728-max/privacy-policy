@@ -3,7 +3,7 @@ Effective Date / Yürürlük Tarihi: August 16, 2026
 
 Application Name / Uygulama Adı: VocabStride
 
-Contact / İletişim: [Geliştirici E-posta Adresin]
+Contact / İletişim: [istanbullu728@gmail.com]
 
 English Version
 1. Overview
